@@ -1,0 +1,4 @@
+alias ls='ls --color=auto'
+alias ..='cd ..'
+alias la='ls -a'
+alias ll='ls -la'
